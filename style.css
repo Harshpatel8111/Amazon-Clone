@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box; /* border include in content*/
+}
+
+img{
+    height: 40px;
+
+}
+
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
